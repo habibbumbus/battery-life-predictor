@@ -4,7 +4,7 @@ A simple C++ console application that estimates how long a battery can power a d
 
 ---
 
-### 🧠 Concepts Demonstrated
+### Concepts Demonstrated
 - Input validation
 - Modular functions
 - File I/O (`ofstream`)
@@ -12,14 +12,14 @@ A simple C++ console application that estimates how long a battery can power a d
 
 ---
 
-### ⚙️ How It Works
+### How It Works
 **Formulas used:**
 - Battery life (hours): `life = (capacity_mAh * efficiency) / current_mA`
 - Energy (Wh): `energy = (voltage * capacity_mAh) / 1000`
 
 ---
 
-### 💻 Example Run
+### Example Run
 Enter battery voltage (V): 3.7
 Enter battery capacity (mAh): 2500
 Enter device current draw (mA): 500
