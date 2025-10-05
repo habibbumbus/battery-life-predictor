@@ -20,3 +20,12 @@ A simple C++ console application that estimates how long a battery can power a d
 ---
 
 ### 💻 Example Run
+Enter battery voltage (V): 3.7
+Enter battery capacity (mAh): 2500
+Enter device current draw (mA): 500
+Enter efficiency (0-1): 0.85
+
+Estimated runtime: 4.25 hours (≈ 4h 15m)
+Battery energy: 9.25 Wh
+✅ Good endurance for low-power device.
+📁 Results saved to 'battery_log.txt'
